@@ -18,4 +18,4 @@ Synchronizes with a target date set on the server. This ensures that every visit
 
 - Just change whatever you want in the begining of the code.
 
-[List of Time Zones](https://github.com/aydinAGF/list-of-lists/tree/main/timezone)
+- [List of Time Zones](https://github.com/aydinAGF/list-of-lists/tree/main/timezone)
