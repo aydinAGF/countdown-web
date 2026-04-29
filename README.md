@@ -16,4 +16,4 @@ Synchronizes with a target date set on the server. This ensures that every visit
 
 ## Configiuration
 
-Just change whatever you want in the begining of the code.
+- Just change whatever you want in the begining of the code.

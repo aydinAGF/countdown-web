@@ -4,7 +4,7 @@
 date_default_timezone_set('Asia/Tehran'); // Change to your timezone
 $target_date_string = "2030-4-8 03:30:00"; // Set you date
 
-$timeheader = "Thi is The End"; // Your timer header
+$timeheader = "This is The End"; // Your timer header
 $finishalarm = "The Event has been started"; // Message to show after countdown finished
 // ==========================================
 
